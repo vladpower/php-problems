@@ -1,0 +1,13 @@
+2
+LANG ru
+PHONE 8 800 000 00 00
+<!DOCTYPE html>
+<html lang="[[=region LANG, en]]">
+<head>
+ <title>[[=region NAME, Москва]]</title>
+</head>
+<body>
+ <h1>[[=region TITLE, Вы в Москве]]</h1>
+ <h2>[[=region PHONE, 8 800 111 11 11]]</h2>
+</body>
+</html>

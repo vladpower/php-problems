@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+ <title>Москва</title>
+</head>
+<body>
+ <h1>Вы в Москве</h1>
+ <h2>8 800 000 00 00</h2>
+</body>
+</html>
